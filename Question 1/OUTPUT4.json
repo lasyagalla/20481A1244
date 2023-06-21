@@ -1,0 +1,218 @@
+[
+	{
+		"trainName": "Hyderabad Exp",
+		"trainNumber": "2341",
+		"departureTime": {
+			"Hours": 23,
+			"Minutes": 55,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 6,
+			"AC": 7
+		},
+		"price": {
+			"sleeper": 554,
+			"AC": 1854
+		},
+		"delayedBy": 5
+	},
+	{
+		"trainName": "Pune Exp",
+		"trainNumber": "2342",
+		"departureTime": {
+			"Hours": 23,
+			"Minutes": 0,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 6,
+			"AC": 7
+		},
+		"price": {
+			"sleeper": 14,
+			"AC": 9
+		},
+		"delayedBy": 17
+	},
+	{
+		"trainName": "Mumbai Exp",
+		"trainNumber": "2343",
+		"departureTime": {
+			"Hours": 22,
+			"Minutes": 37,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 8,
+			"AC": 15
+		},
+		"price": {
+			"sleeper": 2130,
+			"AC": 2230
+		},
+		"delayedBy": 16
+	},
+	{
+		"trainName": "Chennai Exp",
+		"trainNumber": "2344",
+		"departureTime": {
+			"Hours": 21,
+			"Minutes": 35,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 3,
+			"AC": 1
+		},
+		"price": {
+			"sleeper": 2,
+			"AC": 5
+		},
+		"delayedBy": 15
+	},
+	{
+		"trainName": "Kolkata Exp",
+		"trainNumber": "2345",
+		"departureTime": {
+			"Hours": 20,
+			"Minutes": 15,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 16,
+			"AC": 70
+		},
+		"price": {
+			"sleeper": 2120,
+			"AC": 2220
+		},
+		"delayedBy": 14
+	},
+	{
+		"trainName": "Manu Exp",
+		"trainNumber": "2346",
+		"departureTime": {
+			"Hours": 19,
+			"Minutes": 0,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 15,
+			"AC": 10
+		},
+		"price": {
+			"sleeper": 15,
+			"AC": 5
+		},
+		"delayedBy": 13
+	},
+	{
+		"trainName": "Manoranjan Exp",
+		"trainNumber": "2347",
+		"departureTime": {
+			"Hours": 17,
+			"Minutes": 33,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 5,
+			"AC": 1
+		},
+		"price": {
+			"sleeper": 1558,
+			"AC": 2003
+		},
+		"delayedBy": 12
+	},
+	{
+		"trainName": "Test Exp",
+		"trainNumber": "2348",
+		"departureTime": {
+			"Hours": 15,
+			"Minutes": 55,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 1,
+			"AC": 0
+		},
+		"price": {
+			"sleeper": 2,
+			"AC": 4
+		},
+		"delayedBy": 11
+	},
+	{
+		"trainName": "Hawai Exp",
+		"trainNumber": "2349",
+		"departureTime": {
+			"Hours": 14,
+			"Minutes": 55,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 1,
+			"AC": 0
+		},
+		"price": {
+			"sleeper": 2587,
+			"AC": 2674
+		},
+		"delayedBy": 10
+	},
+	{
+		"trainName": "Sundar Exp",
+		"trainNumber": "2347",
+		"departureTime": {
+			"Hours": 13,
+			"Minutes": 32,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 55,
+			"AC": 0
+		},
+		"price": {
+			"sleeper": 13,
+			"AC": 8
+		},
+		"delayedBy": 7
+	},
+	{
+		"trainName": "Taxi Wala Exp",
+		"trainNumber": "2347",
+		"departureTime": {
+			"Hours": 13,
+			"Minutes": 32,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 2,
+			"AC": 2
+		},
+		"price": {
+			"sleeper": 2240,
+			"AC": 2373
+		},
+		"delayedBy": 8
+	},
+	{
+		"trainName": "Nannu Exp",
+		"trainNumber": "2349",
+		"departureTime": {
+			"Hours": 13,
+			"Minutes": 32,
+			"Seconds": 0
+		},
+		"seatsAvailable": {
+			"sleeper": 2,
+			"AC": 1
+		},
+		"price": {
+			"sleeper": 1,
+			"AC": 2
+		},
+		"delayedBy": 9
+	}
+]
